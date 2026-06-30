@@ -133,3 +133,10 @@ writer.close();
 
 ---
 
+### Contributing
+
+Feel free to submit pull requests with additional Java examples, improvements, or bug fixes.
+
+### License
+
+This project is licensed under the MIT License.
